@@ -1,0 +1,4 @@
+Ship crai has docked at dock 0, Row 0, berth 0
+ at time Fri Nov 06 16:36:38 2015
+Ship crai has undocked from dock 0, Row 0, berth 0
+ at time Fri Nov 06 16:36:41 2015
